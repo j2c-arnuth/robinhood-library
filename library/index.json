@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "content_hash": "2bfcd9ad65569974e8638b3508c58cbef39ade33574de7d9b87965a2c7049f8e",
+      "document_type": "Governance document (Code of Ethics)",
+      "date_period": "Undated",
+      "description": "Code of Ethics for CEO, CFO, and Corporate Controller",
+      "original_filename": "RHM_Code_of_Ethics_for_Financial_Executives_v_1_FINAL.pdf",
+      "current_filename": "code-of-ethics-senior-financial-executives.pdf",
+      "location": "governance/",
+      "file_size_bytes": 36707,
+      "token_estimate": 234,
+      "processed_at": "2026-01-21T19:09:58Z"
+    },
+    {
+      "content_hash": "f25b4b8aa84ad3bf27133c594cacb2fc79a7431acf27d3deff7c27e6e9719fa7",
+      "document_type": "10-K Annual Report",
+      "date_period": "FY 2022",
+      "description": "SEC Form 10-K Annual Report for Robinhood Markets, Inc.",
+      "original_filename": "0001193125-23-127601 (1).pdf",
+      "current_filename": "10-K-2022.pdf",
+      "location": "sec-filings/10-K/",
+      "file_size_bytes": 7601671,
+      "token_estimate": 730073,
+      "processed_at": "2026-01-21T19:14:49Z"
+    }
+  ]
+}
