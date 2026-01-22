@@ -1,7 +1,7 @@
 {
   "documents": [
     {
-      "content_hash": "2bfcd9ad65569974e8638b3508c58cbef39ade33574de7d9b87965a2c7049f8e",
+      "content_hash_first_3_pages": "2bfcd9ad65569974e8638b3508c58cbef39ade33574de7d9b87965a2c7049f8e",
       "document_type": "Governance document (Code of Ethics)",
       "date_period": "Undated",
       "description": "Code of Ethics for CEO, CFO, and Corporate Controller",
@@ -13,7 +13,7 @@
       "processed_at": "2026-01-21T19:09:58Z"
     },
     {
-      "content_hash": "f25b4b8aa84ad3bf27133c594cacb2fc79a7431acf27d3deff7c27e6e9719fa7",
+      "content_hash_first_3_pages": "f25b4b8aa84ad3bf27133c594cacb2fc79a7431acf27d3deff7c27e6e9719fa7",
       "document_type": "10-K Annual Report",
       "date_period": "FY 2022",
       "description": "SEC Form 10-K Annual Report for Robinhood Markets, Inc.",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "content_hash": "919f1fde292a1fe706c46d4b4c0a3584305492bce0978d523be7e87aa97d4d51",
+      "content_hash_first_3_pages": "919f1fde292a1fe706c46d4b4c0a3584305492bce0978d523be7e87aa97d4d51",
       "document_type": "SEC Form 5 - Annual Statement of Changes in Beneficial Ownership",
       "date_period": "FY 2024",
       "description": "Annual statement of changes in beneficial ownership for Meyer Malka (Director)",
@@ -46,7 +46,7 @@
       "processed_at": "2026-01-22T15:49:52Z"
     },
     {
-      "content_hash": "ea62a7ced3b334538f20401fe146c7d917d64a956363ca3300d967a873e522b9",
+      "content_hash_first_3_pages": "ea62a7ced3b334538f20401fe146c7d917d64a956363ca3300d967a873e522b9",
       "document_type": "10-K Annual Report",
       "date_period": "FY 2023",
       "description": "SEC Form 10-K Annual Report for Robinhood Markets, Inc.",
@@ -58,7 +58,7 @@
       "processed_at": "2026-01-22T15:54:49Z"
     },
     {
-      "content_hash": "a726f5d3ba059e64983c150c233fae33c3a8fe1af5742e9eafad02397b7421cc",
+      "content_hash_first_3_pages": "a726f5d3ba059e64983c150c233fae33c3a8fe1af5742e9eafad02397b7421cc",
       "document_type": "10-K Annual Report",
       "date_period": "FY 2024",
       "description": "SEC Form 10-K Annual Report for Robinhood Markets, Inc.",
@@ -70,7 +70,7 @@
       "processed_at": "2026-01-22T15:57:11Z"
     },
     {
-      "content_hash": "bca2b9803b411905fd61f2d59e77852114f45c42a3b3e9d4869d2b919674bd8e",
+      "content_hash_first_3_pages": "bca2b9803b411905fd61f2d59e77852114f45c42a3b3e9d4869d2b919674bd8e",
       "document_type": "10-K Annual Report",
       "date_period": "FY 2021",
       "description": "SEC Form 10-K Annual Report for Robinhood Markets, Inc.",
@@ -80,6 +80,198 @@
       "file_size_bytes": 1535134,
       "token_estimate": 137928,
       "processed_at": "2026-01-22T16:00:32Z"
+    },
+    {
+      "content_hash_first_3_pages": "4e3652527e9f58d9b34130c7b560d03d1d714ee404131b9eade90221695cdca5",
+      "document_type": "10-Q Quarterly Report",
+      "date_period": "Q2 2025",
+      "description": "SEC Form 10-Q Quarterly Report for Robinhood Markets, Inc.",
+      "original_filename": "10-Q 2025.pdf",
+      "current_filename": "10-Q-Q2-2025.pdf",
+      "location": "sec-filings/10-Q/",
+      "file_size_bytes": 1523469,
+      "token_estimate": 94231,
+      "processed_at": "2026-01-22T16:38:35Z"
+    },
+    {
+      "content_hash_first_3_pages": "17c0b6fffb03f6672b571001e0439429b1446c948e101addf50e686460b4a1ab",
+      "document_type": "Governance document (Audit Committee Charter)",
+      "date_period": "December 2023",
+      "description": "Charter of the Audit Committee of Robinhood Markets, Inc. Board of Directors",
+      "original_filename": "Audit-Committee-Charter.pdf",
+      "current_filename": "audit-committee-charter-dec-2023.pdf",
+      "location": "governance/",
+      "file_size_bytes": 140369,
+      "token_estimate": 3030,
+      "processed_at": "2026-01-22T16:59:39Z"
+    },
+    {
+      "content_hash_first_3_pages": "f5c4446b9ca5a479b7ef69026809274b216aa75203d18fcc924223121d4f3a4b",
+      "document_type": "Governance document (Corporate Governance Guidelines)",
+      "date_period": "December 2025",
+      "description": "Corporate Governance Guidelines for Robinhood Markets, Inc. Board of Directors",
+      "original_filename": "Corporate Governance Guidelines (Updated December 2025).docx.pdf",
+      "current_filename": "corporate-governance-guidelines-dec-2025.pdf",
+      "location": "governance/",
+      "file_size_bytes": 190940,
+      "token_estimate": 4494,
+      "processed_at": "2026-01-22T17:01:53Z"
+    },
+    {
+      "content_hash_first_3_pages": "63eb67ef5c6f2f3bfcc59969ab301cbee9c2bb9c8629c49717c1460d105b808a",
+      "document_type": "ESG Fact Sheet",
+      "date_period": "FY 2024",
+      "description": "Environmental, Social & Governance (ESG) 2024 Fact Sheet for Robinhood Markets, Inc.",
+      "original_filename": "FY24 RH ESG FACT SHEET.pdf",
+      "current_filename": "esg-fact-sheet-2024.pdf",
+      "location": "esg/",
+      "file_size_bytes": 714892,
+      "token_estimate": 5814,
+      "processed_at": "2026-01-22T17:05:32Z"
+    },
+    {
+      "content_hash_first_3_pages": "e41a3edee02cc8b9fbea88e3255a27d5e5f8ef6c5faa652e36405cda238e89df",
+      "document_type": "ESG Assurance Letter (GHG Verification)",
+      "date_period": "FY 2024",
+      "description": "Limited assurance verification letter from Apex Companies LLC for Robinhood Markets, Inc. greenhouse gas emissions",
+      "original_filename": "FY24_20RH_20ESG_20FACT_20SHEET_APEX_20ASSURANCE_FINAL.pdf",
+      "current_filename": "esg-ghg-assurance-letter-2024.pdf",
+      "location": "esg/",
+      "file_size_bytes": 228214,
+      "token_estimate": 1518,
+      "processed_at": "2026-01-22T17:08:30Z"
+    },
+    {
+      "content_hash_first_3_pages": "e2b373dac719fcbfdc11a9911e3de63a34f8d2bf13d2ece54543b35fbbf4a722",
+      "document_type": "Governance document (Nominating and Corporate Governance Committee Charter)",
+      "date_period": "December 2022",
+      "description": "Charter of the Nominating and Corporate Governance Committee of Robinhood Markets, Inc. Board of Directors",
+      "original_filename": "Nominating-and-Governance-Committee-Charter-(December-2022).pdf",
+      "current_filename": "nominating-governance-committee-charter-dec-2022.pdf",
+      "location": "governance/",
+      "file_size_bytes": 51523,
+      "token_estimate": 1562,
+      "processed_at": "2026-01-22T17:11:28Z"
+    },
+    {
+      "content_hash_first_3_pages": "b430d52fcc8b4d33de53dee228d2ee41b3f6b41b5d26a8127edbe9cffd6b9b5a",
+      "document_type": "Governance document (People and Compensation Committee Charter)",
+      "date_period": "June 2025",
+      "description": "Charter of the People and Compensation Committee of Robinhood Markets, Inc. Board of Directors",
+      "original_filename": "People and Compensation Committee Charter (Updated June 2025).pdf",
+      "current_filename": "people-compensation-committee-charter-jun-2025.pdf",
+      "location": "governance/",
+      "file_size_bytes": 138497,
+      "token_estimate": 2503,
+      "processed_at": "2026-01-22T17:16:21Z"
+    },
+    {
+      "content_hash_first_3_pages": "3b7cf3f1e931519a385d9f5890d7c8c132555f9380abbd72169c00d5eccadbf0",
+      "document_type": "Earnings results press release",
+      "date_period": "Q3 2025",
+      "description": "Robinhood Markets, Inc. Q3 2025 earnings results press release",
+      "original_filename": "Q3_202025_20Robinhood_20Exhibit_2099.1.pdf",
+      "current_filename": "earnings-results-Q3-2025.pdf",
+      "location": "earnings/results/",
+      "file_size_bytes": 196091,
+      "token_estimate": 9031,
+      "processed_at": "2026-01-22T17:18:38Z"
+    },
+    {
+      "content_hash_first_3_pages": "e38bd5eb6ff7d769afb21bc320ced3bf447d8dca3cbfac373c914279447ed815",
+      "document_type": "Earnings presentation",
+      "date_period": "Q4 2024",
+      "description": "Robinhood Markets, Inc. Q4 2024 and Full Year 2024 Earnings Presentation",
+      "original_filename": "Q4 2024 Earnings Presentation.pdf",
+      "current_filename": "earnings-presentation-Q4-2024.pdf",
+      "location": "earnings/presentations/",
+      "file_size_bytes": 2115506,
+      "token_estimate": 16383,
+      "processed_at": "2026-01-22T17:21:04Z"
+    },
+    {
+      "content_hash_first_3_pages": "62eead08d9cfb6e0a597f1264003b6620d85ca6eda129ad305ae0f8e9e0aa176",
+      "document_type": "M&A announcement",
+      "date_period": "June 2025",
+      "description": "Press release announcing the closing of Robinhood's acquisition of Bitstamp Ltd.",
+      "original_filename": "Robinhood Closes Acquisition of Bitstamp.pdf",
+      "current_filename": "bitstamp-acquisition-close-jun-2025.pdf",
+      "location": "press-releases/m-and-a/",
+      "file_size_bytes": 180094,
+      "token_estimate": 752,
+      "processed_at": "2026-01-22T17:23:46Z"
+    },
+    {
+      "content_hash_first_3_pages": "aefda1ad012f7f5d7bc81446a25271b0df4174944ece491c6d4798b213b9cf2d",
+      "document_type": "Proxy Statement (DEF 14A)",
+      "date_period": "2025 Annual Meeting",
+      "description": "Notice of 2025 Annual Meeting of Stockholders and Proxy Statement for Robinhood Markets, Inc.",
+      "original_filename": "Robinhood Market - 2025 Proxy Statement Web Ready.pdf",
+      "current_filename": "proxy-statement-2025.pdf",
+      "location": "sec-filings/proxy-statements/",
+      "file_size_bytes": 1382894,
+      "token_estimate": 66445,
+      "processed_at": "2026-01-22T17:33:54Z"
+    },
+    {
+      "content_hash_first_3_pages": "6e60e6a7b5e12b55b5eb0cb2d027de392166a8d44aa87c2fb0d92a49d8ac2226",
+      "document_type": "Conference transcript",
+      "date_period": "May 2025",
+      "description": "Transcript of Robinhood presentation at J.P. Morgan Global Technology, Media, and Communications Conference",
+      "original_filename": "Robinhood Markets Inc. - May 2025 JP Morgan TMC Conference Transcript.pdf",
+      "current_filename": "jp-morgan-tmc-conference-transcript-may-2025.pdf",
+      "location": "investor-relations/conferences/",
+      "file_size_bytes": 324551,
+      "token_estimate": 7001,
+      "processed_at": "2026-01-22T17:37:27Z"
+    },
+    {
+      "content_hash_first_3_pages": "5a1149ce90b2ecf69a9c03d78bff4d42a6ccf277d91a1d8e8fc6016ba7a9523d",
+      "document_type": "M&A acquisition summary",
+      "date_period": "May 2025",
+      "description": "Summary of Robinhood's pending acquisition of WonderFi Technologies Inc.",
+      "original_filename": "Robinhood Markets Inc. - Summary of Pending Acquisition of WonderFi.pdf",
+      "current_filename": "wonderfi-acquisition-summary-may-2025.pdf",
+      "location": "press-releases/m-and-a/",
+      "file_size_bytes": 78075,
+      "token_estimate": 1173,
+      "processed_at": "2026-01-22T17:41:17Z"
+    },
+    {
+      "content_hash_first_3_pages": "46e4b2a33b0b1b34a7b2dfe4095267ec9f058b210976bac710ef799328ed73b5",
+      "document_type": "Governance document (Code of Conduct)",
+      "date_period": "June 2025",
+      "description": "Robinhood Markets, Inc. Code of Conduct covering ethical standards and workplace conduct policies",
+      "original_filename": "Robinhood Markets Inc. Code of Conduct Last Amended June 25 2025.pdf",
+      "current_filename": "code-of-conduct-jun-2025.pdf",
+      "location": "governance/",
+      "file_size_bytes": 2846477,
+      "token_estimate": 8797,
+      "processed_at": "2026-01-22T17:45:00Z"
+    },
+    {
+      "content_hash_first_3_pages": "402264edb77808910973fc436bb68262c5102b56753dedc7ec2883266a6ff647",
+      "document_type": "Corporate overview presentation",
+      "date_period": "September 2025",
+      "description": "Robinhood Markets, Inc. investor presentation covering company overview and key business metrics",
+      "original_filename": "Robinhood Markets Inc. September 2025 Investor Presentation.pdf",
+      "current_filename": "investor-presentation-sep-2025.pdf",
+      "location": "investor-relations/presentations/",
+      "file_size_bytes": 4715420,
+      "token_estimate": 7477,
+      "processed_at": "2026-01-22T17:48:43Z"
+    },
+    {
+      "content_hash_first_3_pages": "c6479645eac741c691e077532fc49a7edec2caf3c9ef4f6f6e697000d40baddb",
+      "document_type": "Corporate overview presentation",
+      "date_period": "March 2025",
+      "description": "Robinhood Markets, Inc. investor presentation covering company overview and key business metrics",
+      "original_filename": "Robinhood Markets, Inc. March 2025 Investor Presentation.pdf",
+      "current_filename": "investor-presentation-mar-2025.pdf",
+      "location": "investor-relations/presentations/",
+      "file_size_bytes": 968978,
+      "token_estimate": 6163,
+      "processed_at": "2026-01-22T17:53:20Z"
     }
   ]
 }
