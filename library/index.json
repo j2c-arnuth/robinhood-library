@@ -22,7 +22,16 @@
       "location": "sec-filings/10-K/",
       "file_size_bytes": 7601671,
       "token_estimate": 730073,
-      "processed_at": "2026-01-21T19:14:49Z"
+      "processed_at": "2026-01-21T19:14:49Z",
+      "sections": [
+        {"name": "title-and-preface", "filename": "10-K-2022-title-and-preface.pdf", "pages": "1-3", "file_size_bytes": 287541, "token_estimate": 5735},
+        {"name": "toc", "filename": "10-K-2022-toc.pdf", "pages": "4", "file_size_bytes": 27938, "token_estimate": 3962},
+        {"name": "toc-part-i-gap", "filename": "10-K-2022-toc-part-i-gap.pdf", "pages": "5-7", "file_size_bytes": 81845, "token_estimate": 9327},
+        {"name": "part-i", "filename": "10-K-2022-part-i.pdf", "pages": "8-71", "file_size_bytes": 2978851, "token_estimate": 353549},
+        {"name": "part-ii", "filename": "10-K-2022-part-ii.pdf", "pages": "72-154", "file_size_bytes": 4433905, "token_estimate": 339392},
+        {"name": "part-iii", "filename": "10-K-2022-part-iii.pdf", "pages": "155", "file_size_bytes": 28897, "token_estimate": 1788},
+        {"name": "part-iv", "filename": "10-K-2022-part-iv.pdf", "pages": "156-164", "file_size_bytes": 321977, "token_estimate": 16325}
+      ]
     }
   ]
 }
