@@ -32,6 +32,54 @@
         {"name": "part-iii", "filename": "10-K-2022-part-iii.pdf", "pages": "155", "file_size_bytes": 28897, "token_estimate": 1788},
         {"name": "part-iv", "filename": "10-K-2022-part-iv.pdf", "pages": "156-164", "file_size_bytes": 321977, "token_estimate": 16325}
       ]
+    },
+    {
+      "content_hash": "919f1fde292a1fe706c46d4b4c0a3584305492bce0978d523be7e87aa97d4d51",
+      "document_type": "SEC Form 5 - Annual Statement of Changes in Beneficial Ownership",
+      "date_period": "FY 2024",
+      "description": "Annual statement of changes in beneficial ownership for Meyer Malka (Director)",
+      "original_filename": "0000950170-25-001485.pdf",
+      "current_filename": "beneficial-ownership-statement-2024.pdf",
+      "location": "sec-filings/other/",
+      "file_size_bytes": 123535,
+      "token_estimate": 1726,
+      "processed_at": "2026-01-22T15:49:52Z"
+    },
+    {
+      "content_hash": "ea62a7ced3b334538f20401fe146c7d917d64a956363ca3300d967a873e522b9",
+      "document_type": "10-K Annual Report",
+      "date_period": "FY 2023",
+      "description": "SEC Form 10-K Annual Report for Robinhood Markets, Inc.",
+      "original_filename": "0001193125-24-118494 (1).pdf",
+      "current_filename": "10-K-2023.pdf",
+      "location": "sec-filings/10-K/",
+      "file_size_bytes": 1354237,
+      "token_estimate": 117859,
+      "processed_at": "2026-01-22T15:54:49Z"
+    },
+    {
+      "content_hash": "a726f5d3ba059e64983c150c233fae33c3a8fe1af5742e9eafad02397b7421cc",
+      "document_type": "10-K Annual Report",
+      "date_period": "FY 2024",
+      "description": "SEC Form 10-K Annual Report for Robinhood Markets, Inc.",
+      "original_filename": "0001193125-25-096854.pdf",
+      "current_filename": "10-K-2024.pdf",
+      "location": "sec-filings/10-K/",
+      "file_size_bytes": 3680932,
+      "token_estimate": 67925,
+      "processed_at": "2026-01-22T15:57:11Z"
+    },
+    {
+      "content_hash": "bca2b9803b411905fd61f2d59e77852114f45c42a3b3e9d4869d2b919674bd8e",
+      "document_type": "10-K Annual Report",
+      "date_period": "FY 2021",
+      "description": "SEC Form 10-K Annual Report for Robinhood Markets, Inc.",
+      "original_filename": "0001783879-22-000044.pdf",
+      "current_filename": "10-K-2021.pdf",
+      "location": "sec-filings/10-K/",
+      "file_size_bytes": 1535134,
+      "token_estimate": 137928,
+      "processed_at": "2026-01-22T16:00:32Z"
     }
   ]
 }
